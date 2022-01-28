@@ -1,1 +1,1 @@
-# Machine-Learning-Deep-learning-assignments
+# Machine-Learning-Deep-learning
